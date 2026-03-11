@@ -25,3 +25,12 @@ git commit -m "feat: Bootstrap 5 showcase con 50 componentes y tema personalizad
 Go GitHub and create new Repository and follow instructions.
 
 # demo-bootstrap
+
+# 1. Agrega todos los archivos modificados
+git add .
+
+# 2. Crea el commit con el mensaje de los últimos cambios
+git commit -m "feat: expansión a 50 componentes y corrección de enlaces preventDefault"
+
+# 3. Sube los cambios a tu repositorio en GitHub
+git push
