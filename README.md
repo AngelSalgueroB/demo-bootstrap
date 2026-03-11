@@ -22,3 +22,6 @@ git init
 git add .
 git commit -m "feat: Bootstrap 5 showcase con 50 componentes y tema personalizado"
 
+Go GitHub and create new Repository and follow instructions.
+
+# demo-bootstrap
